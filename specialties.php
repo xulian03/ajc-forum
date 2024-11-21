@@ -800,11 +800,12 @@ WHERE
             <li>Electrónica Industrial</li>
             <li>Soluciones Informáticas</li>
             <li>Refrigeración y Aire Acondicionado</li>
-        </ul><iframe src="https://www.youtube.com/embed/5VvxgXq22jQ" title="DEPARTAMENTO METALMECÁNICO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+        </ul>
+        <iframe src="https://www.youtube.com/embed/gg3AGFO1-yE" title="DEPARTAMENTO ELÉCTRICO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
         
     </div>
     <div class="metalmechanic-department">
-<iframe src="https://www.youtube.com/embed/gg3AGFO1-yE" title="DEPARTAMENTO ELÉCTRICO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+    <iframe src="https://www.youtube.com/embed/5VvxgXq22jQ" title="DEPARTAMENTO METALMECÁNICO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
     <ul>
            <p>Departamento Metalmecánico:</p><li>Metalurgia y Fundición</li>
             <li>Mecánica Industrial</li>
